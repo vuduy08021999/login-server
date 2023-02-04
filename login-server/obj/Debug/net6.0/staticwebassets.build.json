@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DNcToS76h1cxNWla0EDfXtxYn6amvAyJ0tx3DBsru/0=",
+  "Source": "login-server",
+  "BasePath": "_content/login-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
